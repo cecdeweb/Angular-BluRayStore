@@ -5,3 +5,8 @@
 @import "./stylings/fonts";
 @import "./stylings/layout";
 @import "./stylings/theme";
+@font-face {
+    font-family: "SFUIText";
+    src: local("SFUIText"), url(./assets/fonts/SFUIText-Regular.ttf) format("truetype");
+}
+
